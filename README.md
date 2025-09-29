@@ -18,4 +18,4 @@
 
 
 ```bash
-git clone https://github.com/bametti/simple.git
+git clone https://github.com/bametti/simple
